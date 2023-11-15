@@ -1,4 +1,4 @@
-#              - Code Wingman
+#              - Coding Wingman
 #     /\__/\   - main.py 
 #    ( o.o  )  - v0.0.1
 #      >^<     - by @rUv
