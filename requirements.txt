@@ -1,4 +1,5 @@
-fastapi==0.78.0
-httpx==0.23.0
-uvicorn==0.18.2
-pydantic==1.9.1
+fastapi==0.75.1
+uvicorn==0.17.6
+httpx==0.21.3
+python-multipart==0.0.5
+pydantic==1.8.2
