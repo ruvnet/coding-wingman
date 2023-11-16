@@ -5,6 +5,9 @@ This repository hosts a FastAPI Coding Co-pilot  designed as an interface with G
 Try the GPT here: 
 https://chat.openai.com/g/g-rvFHm9pMe-the-coding-wingman
 
+Complete Tutorial:
+https://www.linkedin.com/pulse/creating-your-own-intelligent-gpt-agent-coding-wingman-reuven-cohen-gad9f/
+
 ## Features
 
 - OAuth2 and Bearer token based security for endpoints.
