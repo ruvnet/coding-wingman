@@ -1,4 +1,4 @@
-# FastAPI Gateway to GitHub API
+# FastAPI Gateway to GitHub API Fabric
 
 This repository hosts a FastAPI Coding Co-pilot  designed as an interface with GitHub's search API. It facilitates a range of search operations including issues, commits, code, users, topics, and repositories. The application strikes a balance by offering a scalable, extensible, and robust infrastructure, tailored to enhance AI applications. It's adept at managing intricate data processing tasks and adeptly delivering intelligent functionalities with efficiency.
 
